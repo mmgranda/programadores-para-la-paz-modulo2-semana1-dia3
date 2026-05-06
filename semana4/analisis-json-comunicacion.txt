@@ -1,8 +1,8 @@
 Análisis de JSON y comunicación comunitaria – Módulo 2 Semana 1 Día 3
 
-Nombre del estudiante:
+Nombre del estudiante:Maria del Mar Granda
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria_granda
 
 Revisa los archivos data/avisos.json y data/campanias.json.
 

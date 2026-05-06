@@ -1,14 +1,14 @@
 Conceptos básicos de JSON – Módulo 2 Semana 1 Día 3
 
-Nombre del estudiante:
+Nombre del estudiante:María del Mar Granda
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria_granda
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JSON?
 
-Respuesta:
+Respuesta:es un formato de texto ligero y estándar para el intercambio de datos entre sistemas, independiente del lenguaje de programación
 
 2. ¿Para qué sirve un archivo .json?
 
