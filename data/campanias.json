@@ -13,6 +13,13 @@
       "nombre": "Participar con respeto",
       "objetivo": "Fortalecer la convivencia digital y la cultura de paz.",
       "publico": "Participantes de espacios ciudadanos"
-    }
+    },
+
+    {
+      "nombre": "participacion informada",
+      "objetivo": "invitar a la comunidad a informarse antes de tomar desiciones",
+      "publico":"Comunidad general"
+
+  } 
   ]
   

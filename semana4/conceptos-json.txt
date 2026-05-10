@@ -1,47 +1,47 @@
 Conceptos básicos de JSON – Módulo 2 Semana 1 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yesenia Bolaños
+Fecha:09-05-2026
+Nombre de la rama: yesenia-bolanos
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JSON?
 
-Respuesta:
+Respuesta: es un formato de texto usado
 
 2. ¿Para qué sirve un archivo .json?
 
-Respuesta:
+Respuesta: usado para guardar y enviar datos
 
 3. ¿Qué tipo de información comunitaria puede organizarse en JSON?
 
-Respuesta:
+Respuesta: avisos comunitarios, eventos y publicar avisos de beneficiados entre otros 
 
 4. ¿Qué es una clave dentro de JSON?
 
-Respuesta:
+Respuesta: una etiqueta 
 
 5. ¿Qué es un valor dentro de JSON?
 
-Respuesta:
+Respuesta: es la informacion que se guarda dentro de la clave
 
 6. ¿Qué diferencia hay entre texto simple y datos organizados en JSON?
 
-Respuesta:
+Respuesta:json organiza mejor la informacion
 
 7. ¿Qué hace JSON.parse?
 
-Respuesta:
+Respuesta:sirve para convertir un texto en formato JSON  a un objecto  o dato que el progrrama pueda usar
 
 8. ¿Qué hace fs.readFileSync en esta práctica?
 
-Respuesta:
+Respuesta: que nos lea el archivo data/avisos.json
 
 9. ¿Qué hace respuesta.json() en el cliente?
 
-Respuesta:
+Respuesta:se convierte en la respuesta de una API en datos JSON que el navegador o la plicacion pueda usar
 
 10. ¿Cómo ayuda JSON a organizar una plataforma comunitaria?
 
-Respuesta:
+Respuesta: permite organizar guardar y compartir informacion

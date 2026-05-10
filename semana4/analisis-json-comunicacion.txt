@@ -1,28 +1,28 @@
 Análisis de JSON y comunicación comunitaria – Módulo 2 Semana 1 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yesenia Bolaños
+Fecha: 09-03-2026
+Nombre de la rama: yesenia-bolanos
 
 Revisa los archivos data/avisos.json y data/campanias.json.
 
 1. ¿Los avisos tienen mensajes claros?
 
-Respuesta:
+Respuesta:si 
 
 2. ¿Qué aviso ayuda más a prevenir desinformación?
 
-Respuesta:
+Respuesta: participacion informada
 
 3. ¿Qué campaña se relaciona más con cultura de paz?
 
-Respuesta:
+Respuesta:comunicacion clara
 
 4. ¿Qué campo agregarías para mejorar la trazabilidad de los avisos?
 Ejemplos: fecha, fuente, responsable, canal, estado.
 
-Respuesta:
+Respuesta:fecha, fuente y responsable
 
 5. Escribe un nuevo aviso comunitario que podría agregarse al JSON:
 
-Respuesta:
+Respuesta: Beneficios
