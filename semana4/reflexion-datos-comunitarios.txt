@@ -1,8 +1,8 @@
 Reflexión sobre datos comunitarios organizados – Módulo 2 Semana 1 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 22/05/26
+Nombre de la rama: angelica_tejera
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - cultura de paz
 
 Respuesta:
+Organizar avisos, campañas y propuestas en datos claros ayuda a que la comunidad pueda entender la información fácilmente.
+Esto fortalece la participación ciudadana porque más personas pueden consultar y aportar ideas sin confusión.
+También mejora la transparencia, ya que todos pueden verificar qué información es oficial y actualizada.
+El uso de lenguaje claro evita malentendidos y facilita la comunicación entre los miembros de la comunidad.
+Además, permite hacer seguimiento a reuniones, campañas y decisiones importantes.
+Tener información verificable ayuda a prevenir la desinformación y los rumores en espacios digitales.
+Todo esto fortalece la confianza comunitaria y promueve una cultura de paz y respeto.
