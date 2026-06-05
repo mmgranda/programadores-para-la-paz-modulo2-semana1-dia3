@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #0c0000;
+    background-color: #ced3d300;
+}
+h1 {
+    text-align: center;
+    color: #f60707;
+}
+h2 {
+    color: #f60707;
+}
+p {
+    color: #042cf2;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #f60707;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
